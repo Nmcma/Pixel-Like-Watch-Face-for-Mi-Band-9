@@ -65,8 +65,8 @@
 本表盘遵循莫奈（Monet）取色标准选取配色。可以通过以下步骤创建具有新配色的表盘。
 
 1. **创建自己的调色盘（Palette）**。可以从[官方的 Material 3 主题生成器](https://material-foundation.github.io/material-theme-builder/)生成自己的调色盘。网上也有一些第三方的主题生成器可以使用，它们通常具有一些更方便的功能。
-2. **导入Figma设计稿**。下载Figma设计稿 [Material You Green.fig]() ，并导入你的Figma平台。
+2. **导入Figma设计稿**。下载Figma设计稿`Material You Green.fig`，并导入你的Figma平台。
 3. **配置Figma设计稿中的颜色**。根据你生成的调色盘和个人喜好，修改Figma设计稿里`Color styles`中的颜色，设计稿中组件的配色会随之改变。
 4. **导出资源图片到本地**。选中设计稿中的各个资源，使用“导出”功能，以图片（压缩包）形式把资源下载到本地。
-5. **导入Github上的表盘项目**。下载表盘项目[Material You Green Proj.zip]()，解压后使用“小米表盘工具”打开。
+5. **导入Github上的表盘项目**。下载表盘项目`Material You Green Proj.zip`，解压后使用“小米表盘工具”打开。
 6. **使用自己的资源图片替换表盘项目中的对应图片**。工作量稍大，不过需要修改的部分在“小米表盘工具”的官方文档中均有涉及，改到自己满意即可。
